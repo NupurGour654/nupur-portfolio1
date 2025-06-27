@@ -1,6 +1,6 @@
 #  Nupur Gour — Personal Portfolio Website
 
-Welcome to my personal developer portfolio built with HTML, CSS, and Font Awesome. This responsive site showcases my projects, skills, experience, profiles, and contact information — all styled with a sleek yellow-accented dark theme.
+Welcome to my personal developer portfolio built with HTML, CSS, JS and Font Awesome. This responsive site showcases my projects, skills, experience, profiles, and contact information — all styled with a sleek  dark theme.
 
 ---
 
