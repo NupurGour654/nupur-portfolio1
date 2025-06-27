@@ -17,6 +17,10 @@
     color: var(--text-light);
     scroll-behavior: smooth;
   }
+body {
+  padding-top: 5px;
+}
+
   
   .navbar {
     display: flex;
