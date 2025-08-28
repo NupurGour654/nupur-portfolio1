@@ -22,7 +22,7 @@ Welcome to my personal developer portfolio built with HTML, CSS, JS and Font Awe
 
 - HTML5
 - CSS3 (custom theme + animations)
-- [Font Awesome](https://fontawesome.com/icons) for iconshufhafjiqw
+- [Font Awesome](https://fontawesome.com/icons) for icons
 - Responsive design — mobile-friendly layout
 
 ---
