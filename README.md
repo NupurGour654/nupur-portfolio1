@@ -33,6 +33,6 @@ Welcome to my personal developer portfolio built with HTML, CSS, JS and Font Awe
 -  Resume download button
 -  Clean layout for recruiter-friendly navigation
 -  External profile links
--  Smooth transitions and animations
+-  Smooth transitions and animationsftrcuiyiuoip
 
 ---
